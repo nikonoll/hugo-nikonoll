@@ -1,0 +1,31 @@
+languageCode = "en-us"
+baseurl = "http://example.org/"
+theme = "dimension"
+
+[params]
+  title = "Niko Noll"
+  description = '<!--[-->Another highly passionate Webdeveloper. This one comes to your from Munich, Germany<!--]--><br />
+                <!--[-->Currently in love with the speed of Golang, the amazing complexity of ReactJS and the beauty of conventions in Ruby on Rails<!--]-->'
+  logo = "fa-diamond"
+  copyright = "Niko Noll, 2017"
+
+[[params.social]]
+  medium = "github"
+  icon = "github"
+  link = "https://github.com/nikonoll"
+
+[[params.social]]
+  medium = "twitter"
+  icon = "twitter"
+  link = "https://twitter.com/wltnsmmlr"
+
+[[params.social]]
+  medium = "linkein"
+  icon = "linkedin"
+  link = "https://de.linkedin.com/in/niko-noll-a62447a2"
+
+[[params.social]]
+  medium = "xing"
+  icon = "xing"
+  link = "http://www.xing.com/profile/Niko_Noll"
+
