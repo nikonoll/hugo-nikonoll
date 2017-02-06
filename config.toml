@@ -4,7 +4,7 @@ theme = "dimension"
 
 [params]
   title = "Niko Noll"
-  description = '<!--[-->Another highly passionate Webdeveloper. This one comes to your from Munich, Germany<!--]--><br />
+  description = '<!--[-->Just another highly passionate Webdeveloper. This one comes to your from Munich, Germany<!--]--><br />
                 <!--[-->Currently in love with the speed of Golang, the amazing complexity of ReactJS and the beauty of conventions in Ruby on Rails<!--]-->'
   logo = "fa-diamond"
   copyright = "Niko Noll, 2017"
