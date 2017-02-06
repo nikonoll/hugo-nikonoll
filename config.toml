@@ -6,7 +6,7 @@ theme = "dimension"
   title = "Niko Noll"
   description = '<!--[-->Just another highly passionate Webdeveloper. This one comes to your from Munich, Germany<!--]--><br />
                 <!--[-->Currently in love with the speed of Golang, the amazing complexity of ReactJS and the beauty of conventions in Ruby on Rails<!--]-->'
-  logo = "fa-diamond"
+  logo = "fa-code"
   copyright = "Niko Noll, 2017"
 
 [[params.social]]
